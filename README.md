@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepanshu1201
 - 👀 I’m interested in ..programing.
-- 🌱 I’m currently learning ... php html, c++, css, js,java
+- 🌱 I’m currently learning ... php ,html,C, C++, CSS, js,java,python,django,mySQL
 
 - 📫 How to reach me ...deepanshukhandelwal1201@gmail.com
 
